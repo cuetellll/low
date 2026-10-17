@@ -1,0 +1,2 @@
+PySide6>=6.6,<7
+imageio-ffmpeg>=0.5        # ships a static ffmpeg binary (also bundled into the .exe)
